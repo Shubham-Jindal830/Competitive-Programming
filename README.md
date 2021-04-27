@@ -100,7 +100,7 @@ This is an attempt to understand concepts through notes and solve questions on D
 | #   | Title                                                                           | Solution           | Type |
 | --- | ------------------------------------------------------------------------------- | ------------------ | ---- |
 | 1   | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | :heavy_check_mark: | 🧠  |
-| 2   | [Orbit and Axis Algo](Orbit_and_Axis_Approach)                                  | :heavy_check_mark: | 📝  |
+| 2   | [Orbit and Axis Algo](Orbit_and_Axis_Approach.pdf)                              | :heavy_check_mark: | 📝  |
 
 <br/>
 <div align="right">
