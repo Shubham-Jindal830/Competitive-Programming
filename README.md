@@ -22,7 +22,7 @@ This is an attempt to understand concepts through notes and solve questions on D
 
 ## Topics
 
-- [Time Complexity](#Time_Complexity.pdf)
+- [Time Complexity](Time_Complexity.pdf)
 - [Array](#array)
 - [Matrix](#matrix)
 - [Stack & Queue](#stackqueue)
