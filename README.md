@@ -23,16 +23,35 @@ This is an attempt to understand concepts through notes and solve questions on D
 ## Topics
 
 - [Time Complexity](Time_Complexity.pdf)
+- [STL](#stl)
 - [Array](#array)
+- [Strings](#strings)
 - [Matrix](#matrix)
 - [Stack & Queue](#stackqueue)
 - [Backtracking](#backtracking)
 - [Graphs](#graphs)
 
+## Type 
+- 📝 Notes
+- 🧠 Questions
+
+## STL
+| #   | Title                                                                                                                                                                                                              | Solution                                                                                                                  | Type               |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [Basic Constructs](Basic_Constructs.pdf) | :heavy_check_mark: | 📝 |
+| 2   | [STL C++](STL_C++.pdf) | :heavy_check_mark: | 📝 |
+| 3   | [STL Codes](STL.cpp) | :heavy_check_mark: | 📝 |
+
+<br/>
+<div align="right">
+    <b><a href="#topics">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## Array
 
-| #   | Title                                                                                                                                                                                                              | Solution                                                                                                                  | Time | Space | Difficulty | Note               |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ------------------ |
+| #   | Title                                                                                                                                                                                                              | Solution                                                                                                                  | Type               |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1   | [Reverse an Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)                                                                                                                   | :heavy_check_mark:                                                                                                        | _-_  | _-_   | -          | -                  |
 | 2   | [Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)                                                                                                 | :heavy_check_mark:                                                                                                        | _-_  | _-_   | -          | -                  |
 | 3   | [Find the "Kth" max and min element of an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)                                                                                               | :heavy_check_mark:                                                                                                        | _-_  | _-_   | -          | -                  |
@@ -69,6 +88,19 @@ This is an attempt to understand concepts through notes and solve questions on D
 | 34  | [Minimum no. of operations required to make an array palindrome](https://practice.geeksforgeeks.org/problems/palindromic-array/0)                                                                                  | :heavy_check_mark:                                                                                                        | _-_  | _-_   | -          | -                  |
 | 35  | [Median of 2 sorted arrays of equal size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays/)                                                                                                              | :heavy_check_mark:                                                                                                        | _-_  | _-_   | -          | Revisit            |
 | 36  | [Median of 2 sorted arrays of different size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/)                                                                                       | <img src="https://www.pinclipart.com/picdir/middle/61-615350_red-cross-mark-clipart-mistake-red-x-mark.png" width="30px"> | _-_  | _-_   | -          | XXXX               |
+
+<br/>
+<div align="right">
+    <b><a href="#topics">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Strings
+
+| #   | Title                                                                           | Solution           | Type |
+| --- | ------------------------------------------------------------------------------- | ------------------ | ---- |
+| 1   | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | :heavy_check_mark: | 🧠  |
+| 2   | [Orbit and Axis Algo](Orbit_and_Axis_Approach)                                  | :heavy_check_mark: | 📝  |
 
 <br/>
 <div align="right">
